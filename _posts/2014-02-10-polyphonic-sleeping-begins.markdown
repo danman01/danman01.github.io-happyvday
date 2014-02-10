@@ -19,14 +19,13 @@ aspirations to align with the [uberman schedule]("http://www.polyphasicsociety.c
 ###List of sleeps taken during the first day:<br/>###
 
 1. I took my first nap around 12:45AM, but don't believe I fell asleep.
-   Around 1:30am my alarm whent off. It was quite a struggle to not turn
-the alarm off and call of the entire experiment. It was like being
-offered a free coffee when you're trying to kick caffeine.  Somehow I
+   Around 1:30am my alarm whent off. It was quite a struggle to not call off the entire experiment and get a normal night's sleep. It was like being
+offered a free bucket of KFC when you're trying to go vegetarian.  Somehow I
 got up and started to read a book.  I turned on a few lights to simulate
 daytime, and sat around for 30 minutes or so. Then I got up and worked / surfed on the cpu until the next nap, around 5:45am. I also made some homemade corn tortillas and guac to pass the time.  It was pretty cool having an extra few hours in the middle of the night to read / consume articles on polyphasic sleep / think about how tired I was going to be the next day.<br />
 
-2. Nap two occured at 5:45, and this is where I really slipped up.
-   Instead of getting up at 6:20 or so, turns out I wanted to sleep till
+2. Nap two occured at 5:45am, and this is where I really slipped up.
+   Instead of getting up at 6:20am or so, turns out I wanted to sleep till
 9:20.  I'll be the first to admin, I'm a lazy sloth that should be put
 in some sort of boot camp.  When I got up, I was full of energy. I
 attempted a short ~ 10 minute meditation, and things felt normal. I got
