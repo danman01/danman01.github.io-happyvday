@@ -40,7 +40,7 @@ Railscast episode on Devise and Omniauth if I need a starting point.
 And I found I needed a starting piont for just about every app I create.
 So, to not keep repeating the same steps over and over, here's my starter app that I can reuse (and so can you):
 
-[rails4-devise-omniauth-soundcloud-example-app]("https://github.com/danman01/rails4-devise-omniauth-soundcloud")
+[rails4-devise-omniauth-soundcloud-example-app](https://github.com/danman01/rails4-devise-omniauth-soundcloud)
 
 The example app contains a complete devise and omniauth-soundcloud
 integration, with all the extra needed to implement devise and omniauth.
