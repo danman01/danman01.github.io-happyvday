@@ -32,3 +32,18 @@ this gem to your Gemfile:
 I'm going to install the postgresql gem (add to Gemfile: ```'pg'```)and specify that as the database as well:
 
 ```rails new myApp -d postgresl```
+
+From there you will install Devise, an Omniauth-provider gem of your choice
+(I'm using Soundcloud), and then you will need to the create some sort
+of omniauth login-or-create user flow.  I always refer back to the
+Railscast episode on Devise and Omniauth if I need a starting point.
+And I found I needed a starting piont for just about every app I create.
+So, to not keep repeating the same steps over and over, here's my starter app that I can reuse (and so can you):
+
+[rails4-devise-omniauth-soundcloud-example-app]("https://github.com/danman01/rails4-devise-omniauth-soundcloud")
+
+The example app contains a complete devise and omniauth-soundcloud
+integration, with all the extra needed to implement devise and omniauth.
+I needed to handle multiple omniauth
+providers, so moved the omniauth information into a separate Identity
+class.
