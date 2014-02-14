@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "polyphonic sleeping begins!"
+title: "polyphasic sleeping begins!"
 date: 2014-02-10 02:31:35 -0500
 comments: true
-categories: 
+categories: sleep
 ---
 
 ###Captain's log: Day 1
@@ -26,7 +26,7 @@ daytime, and sat around for 30 minutes or so. Then I got up and worked / surfed 
 
 2. Nap two occured at 5:45am, and this is where I really slipped up.
    Instead of getting up at 6:20am or so, turns out I wanted to sleep till
-9:20.  I'll be the first to admin, I'm a lazy sloth that should be put
+9:20.  I'll be the first to admit, I'm a lazy sloth that should be put
 in some sort of boot camp.  When I got up, I was full of energy. I
 attempted a short ~ 10 minute meditation, and things felt normal. I got
 up and finished the corn tortillas, which were the spoils of war against

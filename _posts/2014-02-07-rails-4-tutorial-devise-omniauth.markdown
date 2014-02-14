@@ -3,7 +3,7 @@ layout: post
 title: "Rails 4 Tutorial with Devise and Omniauth"
 date: 2014-02-07 22:08:50 -0500
 comments: true
-categories: 
+categories: rails, tutorials, coding 
 ---
 
 I'm going to run you through this very basic setup for a start Rails
